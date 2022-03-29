@@ -3,10 +3,19 @@
 <a href="mailto:aofldjxm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/aofldjxm@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### ❓Who am I (Keyword)
-
-#Web develop #App develop  
-#Creative #User centered  
-#Guitar #Walking #Hiking
+<p>
+<img src="https://img.shields.io/badge/Web_development-F7DF1E?style=flat-square">
+<img src="https://img.shields.io/badge/App_development-F7DF1E?style=flat-square">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Creative-F7DF1E?style=flat-square">
+<img src="https://img.shields.io/badge/User_centered-F7DF1E?style=flat-square">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Walking-F7DF1E?style=flat-square">
+<img src="https://img.shields.io/badge/Hiking-F7DF1E?style=flat-square">
+<img src="https://img.shields.io/badge/Swimming-F7DF1E?style=flat-square">
+</p>
 
 ### 💪 What can I do
 
