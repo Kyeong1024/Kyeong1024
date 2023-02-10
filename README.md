@@ -1,4 +1,4 @@
-## Hi, my name is KyeongTae 👋
+## Hi, my name is Kyeong 👋
 
 <a href="mailto:aofldjxm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/aofldjxm@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
